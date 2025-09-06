@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 p{
     color: blueviolet;
     background-color: beige;
+=======
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+p{
+    color: bisque;
+    background-color: blueviolet;
+    width: 50%;
+>>>>>>> fe9e66f1aa496ae3d953c82db7220d4ecd3930ac
 }
